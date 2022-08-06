@@ -1,0 +1,20 @@
+Dresses = Платья
+Shirts = Рубашки
+Jeans = Джинсы
+Swimwear = Купальники
+Sleepwear = Пижамы
+Sportswear = Спортивная одежда
+Jumpsuits = Комбинезоны
+Blazers = блейзеры
+Jackets = Куртки
+Shoes = Обувь
+
+
+
+
+
+
+
+
+
+
